@@ -1,0 +1,45 @@
+# .NET / Visual Studio
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+
+# TWB internal runtime state
+.twb/
+*.startup.log
+
+# Siemens TIA Portal temporary files
+*.ap21.bak
+*.als21.bak
+~*
+
+# TWB target workspace projections (local PLC payloads - do not commit to tool repo)
+plc/
+hardware/
+model/
+tia-project.yaml
+
+# Local third-party reference only (never commit to repo)
+.references/
+
+# Release distribution artifacts
+dist/*
+!dist/latest.json
+*.zip
+
+# Local environment & secrets (Never commit!)
+.env
+*.token
+*.lic
+
+# Local build and protection tools
+tools/
