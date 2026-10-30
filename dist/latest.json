@@ -1,0 +1,14 @@
+{
+  "version": "1.6.3",
+  "releaseDate": "2026-10-30",
+  "title": "TIA Workspace Bridge v1.6.3",
+  "changelog": [
+    "西门子博途代码级工业网桥正式发布更新",
+    "优化性能与多版本兼容性，提升 PLC 符号与块同步效率"
+  ],
+  "downloadUrl": "https://gitee.com/coobi7/TIAworkspaceBridge/releases/download/v1.6.3/TIAworkspaceBridge.exe",
+  "sha256": "070A2C8C7D8015D639678C66CF1710418274023D60E73106DF2E889623AB42B5",
+  "signature": "KfsikVEGbP4ub/wspsk+KZYIXk6loI+Sa9Q4P2ph44cNaX8kO6ZsTggA4M5oF0vhRoxWtM6VXH8vU/m85/KUf8x7K5zbq3DKsGcwUUsHrg+mY+uHP7Z8Jpf2LnZCVNEJk3GI3bL01xLwSyrx4ep7X9cP+EJYYg6SWDYly8tIB03uSi5zmYkMCkHZ9wQkL4Yp8GbLi2aWxcu4nbt7zyCX0Hn5CupKu8J5913DDOL+xt3AcSfgPSnril/OOXGFClmU53xumM9XM7MIH9O/GgJ4QynXb226oQad3ZC4hqIRHa03tw269wm0DBSEBx823SFbRg3+r0cm1oreHB3Ut0k/lQ==",
+  "fileSize": 6963200,
+  "mandatory": false
+}
